@@ -18,5 +18,6 @@ The **madhav_ecommerce_sales_powerBI_Dashboard** is a business intelligence dash
      ```bash
      git clone https://github.com/maheedhargowd/madhav_ecommerce_sales_dashboard.git
      ```
+   - Access the powerbi.pbix file by downlaoding the rawfile .
 3. **Dataset**:
    - provided datasets (`Details.csv` and `Orders.csv`) in the folder named `csv_files` in the project directory.
